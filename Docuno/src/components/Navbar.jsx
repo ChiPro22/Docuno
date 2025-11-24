@@ -18,7 +18,7 @@ const Navbar = () => {
         <div className="flex items-center space-x-3">
           {/* Make sure you have a logo.svg in your public folder */}
           <img
-            src="/logo.svg"
+            src="/logo.png"
             alt="Docuno Logo"
             width={50}
             height={50}

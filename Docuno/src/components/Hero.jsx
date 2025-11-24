@@ -31,7 +31,7 @@ const Hero = () => {
           <div className="flex items-center justify-center">
             {/* Make sure you have this image in your public folder */}
             <img
-              src="/landing-page-image.svg"
+              src="/landing-page-image.png"
               alt="AI Document Analysis"
               className="drop-shadow-sm w-full max-w-[600px]"
             />
