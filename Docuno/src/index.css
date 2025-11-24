@@ -1,0 +1,15 @@
+@import "tailwindcss"; 
+
+/* Keep your other custom styles below */
+:root {
+  --font-poppins: 'Poppins', sans-serif;
+  --primary-color: #ECEDEC;
+  --secondary-color: #92D277;
+  --button-color: #0a0a0a;
+}
+
+body {
+  font-family: var(--font-poppins);
+  margin: 0;
+  padding: 0;
+}
